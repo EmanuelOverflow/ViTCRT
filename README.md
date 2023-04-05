@@ -64,6 +64,7 @@ Original PySOT and GOT10K toolkit are provided for comparison
 To run the experiments it is possible to use the following checkpoint:
 
 - [Google Drive](https://bit.ly/ViTCRT_ckp)
+- [OneDrive](https://bit.ly/vitcrt_ckp_onedrive)
 
 Put it in
 
@@ -73,7 +74,10 @@ Put it in
 
 ## Raw results
 
-Raw results for each dataset reported in the article are provided to the following link: [Google Drive](https://bit.ly/vitcrt_raw_results)
+Raw results for each dataset reported in the article are provided to the following link: 
+
+- [Google Drive](https://bit.ly/vitcrt_raw_results)
+- [OneDrive](https://bit.ly/vitcrt_raw_results_onedrive)
 
 Specifically they are:
 
